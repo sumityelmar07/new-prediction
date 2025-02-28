@@ -16,6 +16,7 @@ page_bg_css = """
 <style>
 body {
     background: linear-gradient(135deg, #a1c4fd, #c2e9fb);
+    background-image: url("https://th.bing.com/th/id/OIP.jrtujbLuXMWQVWbRExVwvgHaEC?w=1833&h=1001&rs=1&pid=ImgDetMain");
 }
 </style>
 """
