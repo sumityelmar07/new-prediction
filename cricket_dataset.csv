@@ -1,0 +1,101 @@
+match_id,team1,team2,toss_winner,toss_decision,home_team,crowd_support,pitch_condition,weather_condition,team1_strength,team2_strength,team1_recent_form,team2_recent_form,match_importance,winner,margin_of_victory,top_scorer_team,man_of_the_match
+1,Team D,Team A,Team D,bat,Team A,21284,7,Cloudy,68,72,0.06,0.87,Final,Team A,22,Team D,Team A
+2,Team D,Team B,Team B,bowl,Team B,47819,5,Clear,61,71,0.01,0.02,Final,Team B,59,Team D,Team B
+3,Team D,Team E,Team E,bat,Team E,29118,3,Rainy,52,86,0.61,0.17,Final,Team D,18,Team E,Team D
+4,Team D,Team B,Team B,bowl,Team D,33897,5,Cloudy,69,77,0.44,0.12,Group Stage,Team D,8,Team D,Team D
+5,Team A,Team E,Team E,bowl,Team E,29457,6,Cloudy,91,53,0.18,0.97,Knockout,Team E,44,Team E,Team E
+6,Team D,Team B,Team D,bowl,Team D,39127,7,Clear,89,70,0.39,0.27,Group Stage,Team D,24,Team B,Team D
+7,Team D,Team E,Team E,bat,Team D,48044,1,Clear,56,58,0.77,0.2,Final,Team D,11,Team D,Team D
+8,Team C,Team D,Team C,bat,Team C,13561,7,Cloudy,90,77,0.86,0.62,Knockout,Team C,33,Team D,Team C
+9,Team E,Team C,Team C,bowl,Team C,34538,3,Clear,84,86,0.97,0.85,Group Stage,Team E,90,Team E,Team E
+10,Team C,Team A,Team C,bat,Team A,33419,3,Rainy,81,88,0.48,0.56,Knockout,Team A,23,Team C,Team C
+11,Team C,Team A,Team A,bat,Team A,26198,3,Cloudy,77,51,0.62,0.3,Group Stage,Team C,6,Team A,Team A
+12,Team D,Team E,Team E,bowl,Team E,31834,10,Rainy,77,74,0.32,0.11,Group Stage,Team D,27,Team E,Team D
+13,Team D,Team A,Team D,bat,Team D,31959,9,Cloudy,86,82,0.12,0.34,Final,Team A,59,Team A,Team A
+14,Team A,Team E,Team A,bowl,Team A,49353,4,Cloudy,88,51,0.71,0.15,Group Stage,Team A,59,Team A,Team E
+15,Team B,Team E,Team E,bat,Team B,48623,1,Clear,68,51,0.53,0.45,Knockout,Team B,32,Team B,Team E
+16,Team C,Team E,Team C,bat,Team C,47157,8,Clear,83,55,0.4,0.82,Group Stage,Team E,73,Team E,Team C
+17,Team E,Team C,Team C,bowl,Team E,16546,10,Rainy,68,69,0.65,0.17,Group Stage,Team E,40,Team C,Team E
+18,Team B,Team E,Team B,bat,Team E,18120,9,Cloudy,72,80,0.88,0.26,Knockout,Team B,60,Team B,Team E
+19,Team A,Team E,Team E,bowl,Team A,39855,7,Clear,90,84,0.7,0.85,Knockout,Team E,33,Team E,Team E
+20,Team C,Team A,Team A,bowl,Team A,12557,9,Rainy,74,78,0.28,0.31,Knockout,Team A,54,Team C,Team A
+21,Team E,Team A,Team A,bat,Team A,33328,5,Rainy,52,66,0.31,0.54,Final,Team A,86,Team E,Team A
+22,Team E,Team C,Team C,bowl,Team E,40746,2,Clear,79,82,0.58,0.49,Group Stage,Team E,61,Team C,Team E
+23,Team D,Team C,Team C,bat,Team C,18208,5,Cloudy,84,90,0.95,0.33,Knockout,Team D,53,Team D,Team D
+24,Team D,Team A,Team A,bat,Team D,45743,7,Clear,52,67,0.56,0.94,Knockout,Team A,67,Team A,Team A
+25,Team B,Team E,Team B,bowl,Team B,45777,10,Cloudy,75,66,0.85,0.14,Knockout,Team B,48,Team B,Team B
+26,Team B,Team D,Team D,bat,Team D,39592,8,Clear,56,85,0.8,0.65,Knockout,Team D,16,Team D,Team D
+27,Team C,Team D,Team C,bowl,Team D,23121,7,Rainy,71,100,0.47,0.54,Group Stage,Team D,22,Team D,Team D
+28,Team A,Team E,Team E,bowl,Team A,39749,5,Clear,57,93,0.97,0.46,Knockout,Team A,96,Team E,Team E
+29,Team C,Team D,Team D,bowl,Team D,38940,2,Cloudy,79,68,0.8,0.27,Knockout,Team C,55,Team D,Team C
+30,Team B,Team A,Team A,bat,Team B,33944,5,Clear,50,96,0.25,0.55,Group Stage,Team A,1,Team A,Team B
+31,Team E,Team B,Team E,bat,Team E,29531,10,Rainy,86,71,0.01,0.12,Group Stage,Team B,47,Team E,Team B
+32,Team D,Team A,Team A,bowl,Team A,45247,5,Rainy,85,82,0.46,0.65,Knockout,Team A,10,Team A,Team D
+33,Team D,Team B,Team B,bat,Team B,33289,3,Cloudy,81,50,0.54,0.68,Final,Team D,2,Team D,Team B
+34,Team C,Team E,Team E,bowl,Team E,21938,1,Clear,100,92,0.94,0.39,Group Stage,Team C,40,Team E,Team C
+35,Team D,Team A,Team D,bowl,Team D,13373,2,Clear,100,99,0.68,0.07,Group Stage,Team D,26,Team A,Team A
+36,Team B,Team D,Team B,bat,Team D,27209,5,Cloudy,94,60,0.88,0.74,Group Stage,Team B,36,Team D,Team B
+37,Team A,Team E,Team E,bat,Team A,27506,4,Cloudy,98,88,0.58,0.87,Group Stage,Team E,12,Team A,Team A
+38,Team E,Team C,Team E,bat,Team E,24397,4,Clear,71,62,0.9,0.39,Group Stage,Team E,19,Team C,Team E
+39,Team D,Team B,Team D,bowl,Team B,15486,5,Clear,84,61,0.33,0.67,Group Stage,Team B,23,Team B,Team D
+40,Team E,Team A,Team A,bowl,Team E,32925,10,Clear,84,72,0.55,0.71,Final,Team A,76,Team E,Team A
+41,Team B,Team E,Team B,bat,Team E,11542,8,Cloudy,58,99,0.89,0.15,Group Stage,Team B,37,Team E,Team B
+42,Team E,Team A,Team A,bowl,Team E,47080,4,Cloudy,80,68,0.78,0.56,Final,Team E,74,Team A,Team E
+43,Team C,Team A,Team C,bowl,Team A,13709,10,Clear,90,88,0.75,0.58,Knockout,Team C,63,Team A,Team C
+44,Team A,Team E,Team A,bowl,Team A,12105,5,Cloudy,70,60,0.92,0.25,Final,Team A,20,Team A,Team E
+45,Team A,Team B,Team B,bat,Team A,13330,7,Clear,60,61,0.96,0.06,Knockout,Team A,76,Team B,Team B
+46,Team E,Team D,Team D,bowl,Team D,46487,10,Cloudy,77,77,0.36,0.26,Final,Team E,63,Team E,Team E
+47,Team A,Team B,Team B,bat,Team B,41471,3,Clear,55,67,0.42,0.58,Group Stage,Team B,66,Team B,Team B
+48,Team B,Team D,Team B,bat,Team B,11015,1,Cloudy,50,67,0.99,0.15,Group Stage,Team B,26,Team B,Team B
+49,Team C,Team D,Team C,bat,Team C,28017,9,Rainy,50,70,0.06,0.86,Group Stage,Team D,69,Team C,Team C
+50,Team C,Team A,Team C,bat,Team C,20916,10,Cloudy,68,66,0.24,0.21,Group Stage,Team C,51,Team C,Team C
+51,Team D,Team B,Team D,bat,Team B,36657,8,Rainy,75,83,0.48,0.83,Knockout,Team B,12,Team D,Team B
+52,Team D,Team A,Team A,bowl,Team D,32928,7,Rainy,86,70,0.64,0.81,Final,Team A,38,Team A,Team A
+53,Team B,Team C,Team C,bowl,Team C,16941,3,Rainy,83,87,0.45,0.91,Knockout,Team C,51,Team B,Team B
+54,Team E,Team D,Team D,bowl,Team E,31833,1,Clear,83,55,0.49,0.33,Final,Team E,43,Team D,Team E
+55,Team C,Team D,Team C,bat,Team C,25183,6,Clear,52,81,0.47,0.67,Knockout,Team D,61,Team D,Team C
+56,Team C,Team A,Team C,bowl,Team A,47545,6,Clear,55,50,0.53,0.36,Knockout,Team C,34,Team C,Team A
+57,Team B,Team A,Team B,bat,Team A,20488,9,Cloudy,96,79,0.16,0.38,Group Stage,Team A,26,Team A,Team B
+58,Team A,Team D,Team A,bowl,Team A,10302,8,Cloudy,63,75,0.76,0.53,Knockout,Team A,26,Team D,Team A
+59,Team C,Team D,Team C,bat,Team C,29181,2,Cloudy,87,84,0.4,0.1,Final,Team C,28,Team D,Team C
+60,Team A,Team B,Team A,bowl,Team B,14632,1,Clear,69,74,0.68,0.79,Group Stage,Team B,18,Team A,Team B
+61,Team B,Team D,Team D,bowl,Team B,33275,3,Cloudy,90,86,0.36,0.65,Knockout,Team D,59,Team D,Team B
+62,Team E,Team B,Team E,bat,Team E,37285,5,Cloudy,55,97,0.16,0.19,Knockout,Team B,94,Team E,Team B
+63,Team A,Team D,Team A,bat,Team A,14324,4,Rainy,55,51,0.58,0.92,Final,Team D,6,Team D,Team A
+64,Team C,Team B,Team C,bowl,Team C,20954,8,Cloudy,100,94,0.77,0.19,Knockout,Team C,68,Team C,Team B
+65,Team A,Team E,Team A,bowl,Team A,12048,10,Cloudy,87,86,0.51,0.93,Group Stage,Team E,3,Team A,Team E
+66,Team B,Team E,Team E,bat,Team B,19865,2,Clear,89,51,0.09,0.14,Group Stage,Team B,17,Team B,Team B
+67,Team C,Team B,Team C,bat,Team C,41037,2,Cloudy,60,58,0.21,0.38,Group Stage,Team B,40,Team B,Team B
+68,Team D,Team E,Team D,bowl,Team D,40523,3,Clear,86,54,0.24,0.63,Knockout,Team E,4,Team D,Team D
+69,Team B,Team A,Team A,bowl,Team A,19510,8,Cloudy,81,100,0.62,0.54,Final,Team A,15,Team B,Team B
+70,Team A,Team B,Team A,bat,Team B,28381,5,Rainy,88,100,0.43,0.33,Final,Team A,72,Team B,Team B
+71,Team D,Team C,Team D,bat,Team D,35053,7,Rainy,85,78,0.15,0.31,Group Stage,Team C,27,Team D,Team D
+72,Team D,Team B,Team B,bowl,Team D,33710,4,Clear,73,64,0.8,0.15,Final,Team D,68,Team B,Team D
+73,Team B,Team D,Team B,bat,Team B,20147,4,Cloudy,92,76,0.35,0.18,Knockout,Team B,38,Team D,Team D
+74,Team B,Team C,Team B,bowl,Team C,20380,8,Cloudy,67,74,0.26,0.73,Final,Team C,76,Team C,Team C
+75,Team D,Team A,Team A,bat,Team A,10126,10,Clear,77,80,0.61,0.42,Group Stage,Team D,78,Team A,Team D
+76,Team C,Team D,Team C,bowl,Team C,46244,10,Cloudy,85,72,0.92,0.87,Final,Team C,40,Team C,Team C
+77,Team A,Team B,Team A,bowl,Team B,49224,5,Cloudy,90,84,0.4,0.54,Final,Team B,38,Team B,Team A
+78,Team B,Team D,Team D,bat,Team B,16783,3,Cloudy,73,74,0.5,0.42,Group Stage,Team B,49,Team B,Team B
+79,Team C,Team B,Team B,bowl,Team B,48356,1,Rainy,66,69,0.46,0.56,Knockout,Team B,92,Team C,Team C
+80,Team A,Team D,Team A,bowl,Team A,36838,3,Rainy,68,81,0.47,0.62,Group Stage,Team D,30,Team D,Team D
+81,Team C,Team B,Team C,bowl,Team C,38865,6,Clear,99,79,0.56,0.16,Group Stage,Team C,8,Team C,Team C
+82,Team C,Team E,Team E,bowl,Team C,20093,2,Clear,72,77,0.84,0.87,Group Stage,Team E,57,Team C,Team C
+83,Team C,Team D,Team C,bowl,Team D,41480,5,Rainy,100,82,0.56,0.72,Final,Team D,96,Team D,Team D
+84,Team C,Team E,Team E,bowl,Team C,31389,7,Cloudy,56,59,0.09,0.21,Final,Team E,19,Team E,Team C
+85,Team D,Team B,Team B,bat,Team D,33236,4,Rainy,91,51,0.36,0.03,Group Stage,Team D,37,Team B,Team B
+86,Team A,Team C,Team A,bowl,Team A,27771,8,Clear,59,79,0.49,0.89,Group Stage,Team C,81,Team C,Team A
+87,Team B,Team A,Team B,bat,Team B,27685,4,Cloudy,78,94,0.69,0.68,Knockout,Team A,18,Team A,Team B
+88,Team B,Team E,Team B,bowl,Team E,49952,5,Clear,87,61,0.21,0.01,Group Stage,Team B,27,Team B,Team B
+89,Team C,Team E,Team E,bowl,Team C,18646,10,Clear,66,75,0.4,0.77,Knockout,Team E,64,Team E,Team E
+90,Team C,Team A,Team C,bat,Team A,31874,10,Clear,70,60,0.29,0.36,Group Stage,Team A,59,Team C,Team A
+91,Team C,Team B,Team B,bat,Team C,12711,6,Cloudy,54,82,0.27,0.54,Final,Team B,99,Team B,Team C
+92,Team A,Team C,Team A,bat,Team A,10481,9,Cloudy,51,58,0.08,0.73,Group Stage,Team C,61,Team A,Team C
+93,Team B,Team A,Team B,bat,Team B,38145,5,Rainy,79,87,0.59,0.36,Final,Team B,49,Team B,Team B
+94,Team B,Team A,Team B,bat,Team B,30491,8,Rainy,57,80,0.81,0.66,Knockout,Team A,80,Team A,Team A
+95,Team A,Team C,Team A,bowl,Team A,35064,10,Rainy,81,59,0.59,1.0,Knockout,Team C,85,Team C,Team C
+96,Team E,Team C,Team E,bat,Team C,18007,2,Rainy,72,78,0.47,0.86,Final,Team C,99,Team C,Team E
+97,Team B,Team D,Team B,bowl,Team B,45435,2,Rainy,86,92,0.34,0.72,Final,Team D,15,Team D,Team B
+98,Team D,Team A,Team A,bat,Team D,37345,1,Clear,91,93,0.23,0.02,Knockout,Team D,34,Team A,Team D
+99,Team E,Team A,Team A,bowl,Team A,13810,7,Cloudy,78,98,0.4,0.48,Group Stage,Team A,16,Team A,Team A
+100,Team A,Team C,Team C,bat,Team A,13430,4,Clear,50,79,0.0,0.47,Knockout,Team C,68,Team C,Team C
